@@ -1,0 +1,17 @@
+#navbar-nav ul li a:hover
+{
+    color: #007bff !important;
+}
+
+.navbar-nav li a
+{
+    float: right;
+    text-align: right;
+}
+
+.navbar
+{
+    background: white;
+    margin-right: 10%;
+    margin-left: 10%;
+}

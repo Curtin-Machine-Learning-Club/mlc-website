@@ -1,0 +1,88 @@
+.spacer
+{
+    height: 40px;
+}
+
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+#nav-bar ul li a:hover
+{
+    color: #85CAE4!important;
+}
+
+.navbar
+{
+    background: #FFFFFF;
+}
+
+.navbar-togglers
+{
+    border: none!important;
+}
+
+.nav-link
+{
+    color: #666!important;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#heading h1
+{
+    color: #85CAE4;
+}
+
+#heading .spacer
+{
+    height: 30px;
+}
+
+#projects .spacer
+{
+    height: 30px;
+}
+
+#projects .card
+{
+    width: 100%;
+}
+
+#projects .card-img-top
+{
+    width: 100%;
+}
+
+#projects h1
+{
+    color: #85CAE4;
+}
+
+#projects h3
+{
+    color: #85CAE4; 
+}
+
+#meetups h3
+{
+    color: #85CAE4; 
+}
+
+#meetups h1
+{
+    color: #85CAE4; 
+}
